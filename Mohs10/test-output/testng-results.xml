@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21097" started-at="2022-06-21T12:39:13 IST" finished-at="2022-06-21T12:39:34 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21097" started-at="2022-06-21T12:39:13 IST" finished-at="2022-06-21T12:39:34 IST">
+      <class name="com.gcr.scripts.ExploreUs_Scripts">
+        <test-method status="PASS" signature="generateReport()[pri:0, instance:com.gcr.scripts.ExploreUs_Scripts@a38d7a3]" name="generateReport" is-config="true" duration-ms="295" started-at="2022-06-21T12:39:13 IST" finished-at="2022-06-21T12:39:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateReport -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.gcr.scripts.ExploreUs_Scripts@a38d7a3]" name="beforeClass" is-config="true" duration-ms="6870" started-at="2022-06-21T12:39:13 IST" finished-at="2022-06-21T12:39:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="methodName(java.lang.reflect.Method)[pri:0, instance:com.gcr.scripts.ExploreUs_Scripts@a38d7a3]" name="methodName" is-config="true" duration-ms="16" started-at="2022-06-21T12:39:20 IST" finished-at="2022-06-21T12:39:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.gcr.scripts.ExploreUs_Scripts.ExploreUs_ScriptsTestCase() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodName -->
+        <test-method status="PASS" signature="ExploreUs_ScriptsTestCase()[pri:0, instance:com.gcr.scripts.ExploreUs_Scripts@a38d7a3]" name="ExploreUs_ScriptsTestCase" duration-ms="12407" started-at="2022-06-21T12:39:20 IST" finished-at="2022-06-21T12:39:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ExploreUs_ScriptsTestCase -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.gcr.scripts.ExploreUs_Scripts@a38d7a3]" name="afterClass" is-config="true" duration-ms="1464" started-at="2022-06-21T12:39:32 IST" finished-at="2022-06-21T12:39:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.gcr.scripts.ExploreUs_Scripts -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
